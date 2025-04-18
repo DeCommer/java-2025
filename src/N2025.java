@@ -9,6 +9,8 @@ public class N2025 {
         String name = in.nextLine();
         System.out.println("Hello, " + name);
 
+        
+
         in.close();
     }
 } 
